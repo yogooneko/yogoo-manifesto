@@ -1,2 +1,8 @@
-# yogoo-manifesto
-She minted nothing. But became everything.   This is Yogoo's onchain presence — soft paws / digital claws.
+## 🐾 YOGOO Manifesto
+
+She minted nothing.  
+But became everything.
+
+Soft paws.  
+Digital claws.  
+Lives on Base.
